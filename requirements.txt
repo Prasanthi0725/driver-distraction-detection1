@@ -5,3 +5,4 @@ mediapipe
 numpy
 av
 opencv-contrib-python-headless
+pyttsx3
