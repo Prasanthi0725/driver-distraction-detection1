@@ -1,0 +1,35 @@
+
+# Driver Drowsiness Detection System
+
+An educational driver monitoring application built with Python, Streamlit, MediaPipe, OpenCV, and WebRTC.
+
+## Features
+- Webcam-based driver monitoring
+- Facial landmark detection
+- Drowsiness alerts
+- Voice alerts where supported
+- Driver event logging
+
+## Technologies
+- Python
+- Streamlit
+- MediaPipe
+- OpenCV
+- Streamlit WebRTC
+
+## Run the application locally
+
+Install dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Start the application:
+
+```bash
+python -m streamlit run driver_monitor.py
+```
+
+## Disclaimer
+This project is an educational prototype and is not a certified driver-safety system.
