@@ -6,7 +6,14 @@ import queue
 import cv2
 import mediapipe as mp
 import numpy as np
+import platform
+
 import pyttsx3
+
+if platform.system() == "Windows":
+    import pythoncom
+else:
+    pythoncom = None
 import pythoncom
 import streamlit as st
 
