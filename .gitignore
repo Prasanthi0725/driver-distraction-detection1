@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+driver_monitor_backup.py
+driver_monitor_before_upgrade.py
+driver_events.csv
+trip_summary.csv
+.streamlit/secrets.toml
+
+Driver_Distraction_System/
