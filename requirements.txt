@@ -1,6 +1,6 @@
-streamlit
-streamlit-webrtc
-mediapipe
-numpy
-av
-streamlit-autorefresh
+streamlit==1.41.1
+streamlit-webrtc==0.63.4
+mediapipe==0.10.21
+numpy==1.26.4
+av==17.1.0
+streamlit-autorefresh==1.0.1
